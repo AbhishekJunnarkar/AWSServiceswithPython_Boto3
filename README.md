@@ -1,2 +1,3 @@
-# python-for-AWS-Lambda
-Python basics for use in building serverless AWS Lambda 
+# AWS Services with Python Boto3
+
+Python boto3 code examples for AWS resources
